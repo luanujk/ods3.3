@@ -294,6 +294,7 @@ img {
 
 .details__box {
   margin-bottom: 2.5rem;
+  margin-left: 12px;
   text-align: center;
 }
 
@@ -458,6 +459,7 @@ img {
     display: flex;
     justify-content: space-between;
     gap: 2rem;
+    margin-left: 12px;
 }
 
 .panel-item {
