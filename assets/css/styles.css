@@ -470,7 +470,7 @@ img {
 
 .panel-image img {
     max-width: auto;
-    height: 250px;
+    height: 180px;
     object-fit: cover;
     border-radius: 8px;
 }
